@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to ANZ Machine Learning Research School
 
-You can use the [editor on GitHub](https://github.com/ANZ-Machine-Learning-Research-School/ml-research-school/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Event Details
+**Date**: 29 Jun 2020 - 1 Jul 2020
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
 
-### Markdown
+#### The first Machine Learning Research School
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Intermediate Machine Learning for research students, an intensive 3-day course intended for PhD and masters by research students, given by Australia and New Zealand's top academics.
 
-```markdown
-Syntax highlighted code block
+### Featuring speakers from:
+.* Monash
+.* Data61
+.* RMIT
+.* UTS
+.* University of Melbourne
+.* University of Waikato
+.* Deakin
 
-# Header 1
-## Header 2
-### Header 3
+### Organisers
+.* Wray Buntine (Monash University)
+.* Minyi Li (RMIT)
+.* Ivor Tsang (UTS)
 
-- Bulleted
-- List
+### Registration
 
-1. Numbered
-2. List
+To be advised, although cost effective for research students.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ANZ-Machine-Learning-Research-School/ml-research-school/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Event Contact
