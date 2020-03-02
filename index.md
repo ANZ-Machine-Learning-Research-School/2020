@@ -1,4 +1,4 @@
-## Welcome to ANZ Machine Learning Research School
+## Welcome to Australasian Machine Learning Research School
 
 ### Event Details
 **Date**: 29 Jun 2020 - 1 Jul 2020
