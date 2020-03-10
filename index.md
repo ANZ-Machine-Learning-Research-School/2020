@@ -2,6 +2,7 @@
 
 ## Event Details
 **Date**: 29 Jun 2020 - 1 Jul 2020
+
 **Location**: RMIT in central Melbourne
 
 ## Description
