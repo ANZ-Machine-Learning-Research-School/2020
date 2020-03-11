@@ -21,13 +21,8 @@ Some hands-on sessions will be run, soyou must bring your laptop.
 - Ivor Tsang (UTS)
 - Qi Wu (Adelaide)
 
-### Featuring more speakers from:
-- Monash
-- Data61
-- RMIT
-- UTS
-- University of Melbourne
-- Deakin University
+More speakers coming from Monash University, Data61, RMIT, UTS, University of Melbourne and Deakin University.
+
 
 ### Organisers
 - [Wray Buntine (Monash University)](https://bayesian-models.org/)
@@ -42,4 +37,5 @@ Industry and Academic registrations welcomed.
 
 ### Event Contact
 
+Sponsorship, speaking and other issues:
 <info@aa-mlrs.org>
