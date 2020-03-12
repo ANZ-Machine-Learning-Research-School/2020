@@ -16,7 +16,7 @@ Some hands-on sessions will be run, soyou must bring your laptop.
 
 ### Confirmed speakers:
 - Edwin Bonilla (Data61)
-- Cheng Soon Ong (ANU)
+- Cheng Soon Ong (Data61 & ANU)
 - Bernhard Pfahringer (Waikato)
 - Ivor Tsang (UTS)
 - Qi Wu (Adelaide)
