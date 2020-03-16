@@ -1,7 +1,11 @@
 # Welcome to Australasian Machine Learning Research School
 
+## Cancellation!
+Due to the COVID-19 events, the need for social distancing, and the reluctance of people to travel, we will cancel the MLRS for June, 2020.
+We hope to reschedule later in the year when things settle down.
+
 ## Event Details
-**Date**: 29 Jun 2020 - 1 Jul 2020
+**Date**: TBD
 
 **Location**: RMIT in central Melbourne
 
